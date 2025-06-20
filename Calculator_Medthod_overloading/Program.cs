@@ -1,6 +1,6 @@
 ﻿using MyCalculatorApp;  
 
-namespace MyCalculatorApp
+namespace Calculator_Method_overloading
 {
     internal class Program
     {
